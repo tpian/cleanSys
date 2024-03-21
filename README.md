@@ -34,6 +34,7 @@
 
 车辆管理
 ![车辆管理](./figure/carManage.png)
+![车辆事件](./figure/carEventManage.png)
 
 点位管理
 ![点位管理](./figure/pointManage.png)
